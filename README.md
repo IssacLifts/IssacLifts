@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IssacLifts)](https://github.com/IssacLifts/github-readme-stats)
 
 <!--
 **IssacLifts/IssacLifts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
